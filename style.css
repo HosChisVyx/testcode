@@ -1,0 +1,11 @@
+.box {
+  background: linear-gradient(
+    to top,
+    rgba(242, 75, 75, 0.795),
+    rgba(87, 87, 233, 0.822)
+  );
+  width: 340px;
+  height: auto;
+  font-size: 100px;
+  margin: 0 auto;
+}
